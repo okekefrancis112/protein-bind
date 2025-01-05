@@ -5,7 +5,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🧬 [Protein Data Processing](#protein-data)
-6. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
